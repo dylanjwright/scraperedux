@@ -1,0 +1,40 @@
+#articles {
+  display: inline-block;
+  overflow: auto;
+  width: 100%;
+  height: 300px;
+  font-weight: bold;
+  text-align: center;
+}
+#bodyinput{
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  color: red;
+  text-align: center;
+}
+#notes {
+  margin: auto;
+  width: 70%;
+  align-content: center;
+}
+textarea {
+  margin: auto;
+  display: block;
+  width: 100%;
+  height: 100px;
+}
+#titleinput{
+  margin: auto;
+  width: 100%;
+  height: 30px;
+}
+#wrapper {
+  width: 1000px;
+  margin-left: 15%;
+  margin-right: 15%;
+  justify-content: center;
+}
